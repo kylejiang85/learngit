@@ -1,1 +1,2 @@
-this is a testing for telnet device.
+add telnet to access routers.
+user telnet command.
